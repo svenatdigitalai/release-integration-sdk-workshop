@@ -42,9 +42,9 @@ Now you have a virtual environment set up with the required dependencies install
 
 ## IDE support
 
-### Visual Code
+### Visual Studio Code
 
-Follow the instructions from the [Visual Code Python tutorial](https://code.visualstudio.com/docs/python/python-tutorial) to install the Python plugin for Visual Code. 
+Follow the instructions from the [Visual Code Python tutorial](https://code.visualstudio.com/docs/python/python-tutorial) to install the Python plugin for Visual Studio Code. 
 
 ### PyCharm
 
